@@ -1,0 +1,6 @@
+{
+  "name": "台鐵班次即時查詢 (TRA Rail Pulse)",
+  "description": "具備現代科技感與頂級 UI/UX 的台鐵列車時刻表、即時誤點追蹤與動態行駛進度圖查詢系統",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
